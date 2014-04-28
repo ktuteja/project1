@@ -1,0 +1,6 @@
+first line
+i am testing
+six line
+file insertion
+in git
+darn still 5, this is 6th
