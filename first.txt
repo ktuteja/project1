@@ -1,4 +1,5 @@
 first line
+<<<<<<< HEAD
 
 2nd line
 
@@ -7,3 +8,14 @@ first line
 7th line
 
 lets try this
+=======
+i am testing
+six line
+file insertion
+in git
+darn still 5, this is 6t
+this one is 7th
+I am runing out of words
+test
+
+>>>>>>> b2b291d4f7569de6305b6b7ed552138de0bef788
